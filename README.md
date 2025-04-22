@@ -97,10 +97,10 @@ Contributing is easy! 🎉 If you'd like to help improve **CineCamp**, follow th
 
 ## 👨‍💻 Author
 
-Developed with 💻❤️ by [Juanfrxz](https://github.com/Juanfrxz).
+Developed with 💻❤[Juanfrxz](https://github.com/figueredoestupinan2025).
 
 ---
 
 ## 🌐 Link page
 
-[Cine Campus Page](https://github.com/Juanfrxz).
+[Cine Campus Page](https://github.com/figueredoestupinan2025).
